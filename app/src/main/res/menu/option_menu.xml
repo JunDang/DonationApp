@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/set_campaing" android:title="Set New Campaign"></item>
+<item android:id="@+id/report" android:title="Campaign Report"/>
+    <item android:id="@+id/dbreport" android:title="DB Report"/>
+</menu>
